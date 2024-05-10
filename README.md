@@ -2,12 +2,17 @@
 
 Matching Engine for Passenger-to-Driver matching at RideNow
 
-# Tools and Libraries
+## Selected Artifacts
+
+- Flask Class -> Run method
+
 
 ## Available Notebooks
 
-- openai.ipynb (model: GPT-4)
-- llama3.ipynb (model: LLama3)
+- openai.ipynb  - model: GPT-4 inference
+- llama3.ipynb  - model: LLama3 8b with Ollama
+- mistral.ipynb - model: mistral 7b with Ollama
+- mixtral.ipynb - model: mixtral 8x7b with Ollama
 
 ## Core libraries
 
